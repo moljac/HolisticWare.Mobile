@@ -1,0 +1,27 @@
+[submodule "git-submodules/HolisticWare.Mobile.Contacts"]
+	path = git-submodules/HolisticWare.Mobile.Contacts
+	url = https://github.com/moljac/HolisticWare.Mobile.Contacts.git
+[submodule "git-submodules/HolisticWare.Mobile.Geolocation"]
+	path = git-submodules/HolisticWare.Mobile.Geolocation
+	url = https://github.com/moljac/HolisticWare.Mobile.Geolocation.git
+[submodule "git-submodules/HolisticWare.Mobile.Media"]
+	path = git-submodules/HolisticWare.Mobile.Media
+	url = https://github.com/moljac/HolisticWare.Mobile.Media.git
+[submodule "git-submodules/originals-read-only/Xamarin.Mobile"]
+	path = git-submodules/originals-read-only/Xamarin.Mobile
+	url = https://github.com/xamarin/Xamarin.Mobile.git
+[submodule "git-submodules/submodules-moljac/DotNetLibraryTemplate"]
+	path = git-submodules/submodules-moljac/DotNetLibraryTemplate
+	url = https://github.com/moljac/DotNetLibraryTemplate.git
+[submodule "git-submodules/HolisticWare.Mobile.Shared"]
+	path = git-submodules/HolisticWare.Mobile.Shared
+	url = https://github.com/moljac/HolisticWare.Mobile.Shared.git
+[submodule "git-submodules/HolisticWare.Mobile.Hardware.Bluetooth.LowEnergy.Polar.H7"]
+	path = git-submodules/HolisticWare.Mobile.Hardware.Bluetooth.LowEnergy.Polar.H7
+	url = https://github.com/moljac/HolisticWare.Mobile.Hardware.Bluetooth.LowEnergy.Polar.H7.git
+[submodule "git-submodules/HolisticWare.Mobile.Hardware.Bluetooth.LowEnergy"]
+	path = git-submodules/HolisticWare.Mobile.Hardware.Bluetooth.LowEnergy
+	url = https://github.com/moljac/HolisticWare.Mobile.Hardware.Bluetooth.LowEnergy.git
+[submodule "git-submodules/HolisticWare.Mobile.Hardware.Bluetooth"]
+	path = git-submodules/HolisticWare.Mobile.Hardware.Bluetooth
+	url = https://github.com/moljac/HolisticWare.Mobile.Hardware.Bluetooth.git
